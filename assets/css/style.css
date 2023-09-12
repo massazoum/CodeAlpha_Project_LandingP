@@ -1,0 +1,13 @@
+.first_header {
+ display: flex;
+ flex-direction: row;
+}
+
+.icon_socials {
+ display: flex;
+}
+
+.second_header {
+ display: flex;
+ flex-direction: row;
+}
