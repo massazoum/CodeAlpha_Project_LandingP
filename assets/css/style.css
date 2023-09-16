@@ -1,6 +1,7 @@
 .first_header {
  display: flex;
  flex-direction: row;
+ background-color: aquamarine;
 }
 
 .icon_socials {
@@ -10,4 +11,27 @@
 .second_header {
  display: flex;
  flex-direction: row;
+ background-color: antiquewhite;
+ position: sticky;
+}
+
+.main_page {
+ height: 100vh;
+}
+
+.card {
+ background-color: rgb(222, 230, 230);
+}
+
+.card .image-box {
+ height: 200px;
+}
+
+.card .image-box img {
+ height:100%;
+ border-radius: 50%;
+}
+
+.card .profile-details img {
+
 }
