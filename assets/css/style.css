@@ -3,6 +3,10 @@
  margin: 0;
 }
 
+body {
+  /* width: 1; */
+}
+
 .first_header {
  display: flex;
  justify-content: space-between;
@@ -12,6 +16,11 @@
  height: 50px;
  width: 100vw;
  color: #fff;
+}
+
+.main {
+  width: 100%;
+  position: absolute;
 }
 
 .first_header .icon_socials {
