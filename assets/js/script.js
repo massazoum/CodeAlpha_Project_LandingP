@@ -10,12 +10,10 @@ const swiper = new Swiper('.swiper', {
     prevEl: '.swiper-button-prev',
   },
   breakpoints: {
-    // When window width is less than or equal to 768px
     768: {
       slidesPerView: 1,
       spaceBetween: 20,
     },
-    // Add more breakpoints as needed
     992: {
       slidesPerView: 3,
       spaceBetween: 25,

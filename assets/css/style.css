@@ -3,10 +3,6 @@
  margin: 0;
 }
 
-body {
-  /* width: 1; */
-}
-
 .first_header {
  display: flex;
  justify-content: space-between;
@@ -19,8 +15,9 @@ body {
 }
 
 .main {
-  width: 100%;
-  position: absolute;
+  position: relative;
+  width: 100vw;
+  height: 100vh;
 }
 
 .first_header .icon_socials {
@@ -73,6 +70,11 @@ body {
  flex-direction: row;
  width: 100vw;
  height: auto;
+}
+
+.second_logo img {
+  width: 100px;
+  height: 70px;
 }
 
 .side_main_Info {
@@ -386,6 +388,11 @@ text-align: center;
     width: 90vw;
   }
 
+  .subSlide h2 {
+    text-align: center;
+    font-size: small;
+    } 
+    
   .info_right_div {
     display: flex;
     flex-direction: column;
