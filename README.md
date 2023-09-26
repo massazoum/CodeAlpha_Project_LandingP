@@ -1,11 +1,10 @@
-#
 <a name="readme-top"></a>
 
 <div align="center">
    
   <br/>
 
-  <h3><b> CodeAlpha_Project_LandingP</b></h3>
+  <h3><b>LandingP</b></h3>
 
 </div>
 
@@ -33,8 +32,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖  CodeAlpha_Project_LandingP <a name="about-project"></a>
-This pull is created to add javascript to my portfolio and make interaction on my menu bars and times 
-This PR updates the responsive desktop design for our website to improve its usability on larger screens. The goal of this update is to provide a better user experience for desktop users and ensure that our website looks great on all devices
+Landing Page
 
 ## 🛠 Built With <a name="built-with"></a>
 <ul>
@@ -88,7 +86,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
   - cd my-folder
-  - git clone https://github.com/massazoum/PRT.git
+  - git clone https://github.com/massazoum/CodeAlpha_Project_LandingP.git
   
   - git clone
   - npm install or npm init -y
@@ -100,7 +98,7 @@ This website has been completed and deployed
 ### Deployment
 
   The changes will be deployed to the website through our standard deployment process.
-- [PortFolio](https://massazoum.github.io/PRT)
+- [LandingPage](https://massazoum.github.io/CodeAlpha_Project_LandingP/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

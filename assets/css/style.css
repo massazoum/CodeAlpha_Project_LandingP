@@ -66,6 +66,15 @@
   color: #fff;
 }
 
+.hero-content h1 {
+  font-size: xx-large;
+}
+
+.hero-content p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: larger;
+}
+
 .main_info {
   display: flex;
   flex-direction: row;
