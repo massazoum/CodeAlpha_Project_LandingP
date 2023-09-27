@@ -115,8 +115,6 @@ This website has been completed and deployed
 ## 🔭 Future Features <a name="future-features"></a>
 
 - [ ] **Animation**
-- [ ] **Responsive**
-- [ ] **include Javascript**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
